@@ -6,9 +6,9 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
 
-  <ul class="feature-list">
+  <ul id="feature-list" class="post-list">
     {% for post in site.categories.features %}
-      <li>
+      <li class="footer-col-3">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
