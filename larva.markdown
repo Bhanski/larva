@@ -11,6 +11,6 @@ CSS3:
 
 Let's nibble on some siteleaf.
 
-{{page.markup.Title}}
+{{markup.Title}}
 {{page.markup.Description}}
 {{page.markup.Picture}}
