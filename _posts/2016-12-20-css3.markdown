@@ -1,6 +1,8 @@
 ---
 title: CSS3
 date: 2016-12-20 10:54:00 Z
+categories:
+- features
 description: We love CSS3 because old people cant see it!
 ---
 
