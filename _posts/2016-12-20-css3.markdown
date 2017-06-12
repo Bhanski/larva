@@ -3,7 +3,7 @@ title: CSS3
 date: 2016-12-20 10:54:00 Z
 categories:
 - features
-description: We love CSS3 because old people cant see it!
+description: We love CSS3 because!
 ---
 
 So many nice things that are not supported by old browsers!
